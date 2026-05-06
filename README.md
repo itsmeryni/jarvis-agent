@@ -13,9 +13,9 @@ A fully local AI voice assistant inspired by JARVIS from Iron Man. Clap twice to
 
 ## What it does
 
-You clap twice. A HUD overlay appears on your screen. You say something like "Jarvis, open Chrome" or "Jarvis, search for the weather." Jarvis replies in a British voice and carries out the action. That is it.
+You clap twice. A HUD overlay appears on your screen. You can say something like "Jarvis, open Chrome" or "Jarvis, search for the weather." Jarvis replies in a British voice and carries out the action. 
 
-It runs entirely on your machine — no internet needed after setup, no data sent anywhere, no subscription.
+It runs entirely on your machine. No internet needed after setup, no data sent anywhere, no subscription.
 
 ```
 [double clap]
