@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Piper voice model files (large binary files)
+*.onnx
+*.onnx.json
+
+# Whisper cache
+~/.cache/whisper/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Screenshots saved by Jarvis
+jarvis_screenshot.png
