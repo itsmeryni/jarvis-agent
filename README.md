@@ -2,7 +2,7 @@
 
 > "Just A Rather Very Intelligent System"
 
-A fully local AI voice assistant inspired by JARVIS from Iron Man. Clap twice to wake it up, speak a command, and Jarvis responds with voice and takes action on your PC — all running offline with no API keys or monthly costs.
+A fully local AI voice assistant inspired by JARVIS from Iron Man. Clap twice to wake it up, speak a command, and Jarvis responds with voice and takes action on your PC, all running offline with no API keys or monthly costs.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Ollama](https://img.shields.io/badge/Ollama-Llama%203.1-green)
@@ -203,4 +203,4 @@ MIT — use it, change it, share it however you want.
 - Ollama for making local LLM inference practical
 - OpenAI Whisper for offline speech recognition
 - Piper TTS for the voice
-- Marvel's Iron Man for the idea
+- Optional: ME (feel free to mention me if you found this post)
