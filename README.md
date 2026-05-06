@@ -1,4 +1,4 @@
-# J.A.R.V.I.S — Local AI Voice Agent
+# J.A.R.V.I.S ~ Local AI Voice Agent
 
 > "Just A Rather Very Intelligent System"
 
